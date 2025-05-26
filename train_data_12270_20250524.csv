@@ -1,0 +1,9 @@
+Train No,Train Name,Station Name,Station Code,Scheduled Arrival Time,Scheduled Departure Time,Actual Arrival Time,Actual Departure Time,Original Delay,SEQ,Distance,Halt Time (min),Delay Status,Station Congestion,Track Availability,Peak Hour Indicator
+12270,Unknown,Delhi Hazrat Nizamuddin,NZM,15:55,15:55,16:00,16:00,5.0,1,0,0,Delayed,0,0,0
+12270,Unknown,Gwalior Jn,GWL,19:18,19:20,19:19,19:21,1.0,2,306,2,Delayed,0,0,1
+12270,Unknown,Veerangana Laxmibai Jhansi,VGLJ,20:45,20:50,20:57,21:02,12.0,3,403,5,Delayed,1,0,0
+12270,Unknown,Rani Kamlapati,RKMP,00:12,00:20,00:20,00:34,8.0,4,700,14,Delayed,2,0,0
+12270,Unknown,Nagpur,NGP,05:35,05:40,06:06,06:08,31.0,5,1083,2,Delayed,0,0,0
+12270,Unknown,Balharshah,BPQ,08:30,08:35,08:32,09:05,2.0,6,1294,33,Delayed,2,0,1
+12270,Unknown,Vijayawada Jn,BZA,14:20,14:30,15:16,15:35,56.0,7,1744,19,Delayed,2,0,0
+12270,Unknown,Mgr Chennai Central,MAS,21:00,21:00,21:00,21:00,0.0,8,2174,0,On Time,0,0,0
